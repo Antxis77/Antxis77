@@ -1,4 +1,9 @@
-### Hi there 👋
+{French Developper 🇫🇷}
+ 📌 Java 
+ 📌 C (IHM/CMD)
+ 📌 PowerApps
+
+✉ Contact PM.
 
 <!--
 **Antxis77/Antxis77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
