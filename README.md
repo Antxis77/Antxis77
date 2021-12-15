@@ -1,4 +1,4 @@
-### Hi there, I'm Anthony - aka [Antxis77][website] 👋 
+### Hi there, I'm Anthony - aka [Antxis77] 👋 
 
 
 ### I'm a French Developper
